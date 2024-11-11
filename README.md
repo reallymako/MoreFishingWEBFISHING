@@ -16,19 +16,20 @@ all sprites have been updated, multiple stat changes have been made to fish, and
 
 -----
 a very very very special thanks to the following people!!!
-selene <3
-Seizure Boy
-MalJaws
-Q
-LOVEY-JANE
-Quacke
-Gabe
-Bullet
-Fii
-OvichTheMarten
-vampirina
-kityenok
-marie
+
+selene <3,
+Seizure Boy,
+MalJaws,
+Q,
+LOVEY-JANE,
+Quacke,
+Gabe,
+Bullet,
+Fii,
+OvichTheMarten,
+vampirina,
+kityenok,
+marie,
 coolbot100s
 -----
 you guys are awesome!! thx for helping out!!!

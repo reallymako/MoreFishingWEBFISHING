@@ -33,7 +33,7 @@ coolbot100s
 -----
 you guys are awesome!! thx for helping out!!!
 
-this mod was entirely made with Hatchery!!!
+this mod was entirely made with Hatchery!
 for this mod to work, GDWeave and Lure is required!!
 "a great man once said, quantity over quality..."
 enjoy webfishers!!! 

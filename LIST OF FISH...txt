@@ -1,0 +1,89 @@
+LIST OF FISH...
+
+FRESHWATER:
+Shad ~ Tier 1
+Lamprey ~ Tier 1
+Arapaima ~ Tier 3
+Piranha ~ Tier 1
+Payara ~ Tier 2
+Tilapia ~ Tier 1
+Snook ~ Tier 2
+Paddlefish ~ Tier 2
+Mudskipper ~ Tier 1
+Peacock Bass ~ Tier 2
+Electric Eel ~ Tier 2
+Silver Arowana ~ Tier 1
+Tiger Trout ~ Tier 1
+Dario Dario ~ Tier 1
+Archer Fish ~ Tier 1
+Salamander ~ Tier 2
+Giant Freshwater Stingray ~ Tier 3
+Olm ~ Tier 2
+Betta ~ Tier 1
+Zander ~ Tier 2
+Manatee ~ Tier 3
+Candiru ~ Tier 2
+Pacu ~ Tier 2
+Green Terror ~ Tier 2
+Arctic Char ~ Tier 2
+Burbot ~ Tier 1
+Goliath Tigerfish ~ Tier 2
+Whitefish ~ Tier 1
+Amazon River Dolphin ~ Tier 2
+Bicuda ~ Tier 2
+Cichlid ~ Tier 1
+Wels Catfish ~ Tier 3
+
+SALTWATER:
+Saltwater Crocodile ~ Tier 3
+Mahi Mahi ~ Tier 2
+Thresher Shark ~ Tier 2
+Tiger Shark ~ Tier 3
+Pufferfish ~ Tier 1
+Oarfish ~ Tier 3
+Anglerfish ~ Tier 2
+Orca ~ Tier 3
+Flying Fish ~ Tier 1
+Dumbo Octopus ~ Tier 2
+Telescopefish ~ Tier 2
+Wahoo ~ Tier 1
+Sea Urchin ~ Tier 1
+Spider Crab ~ Tier 2
+Mandarin Fish ~ Tier 2
+Starfish ~ Tier 1
+Barreleye ~ Tier 2
+Goblin Shark ~ Tier 2
+Reef Triggerfish ~ Tier 2
+Cod ~ Tier 2
+Mako Shark ~ Tier 3
+Amberjack ~ Tier 2
+Scorpionfish ~ Tier 2
+Barracuda ~ Tier 2
+Blobfish ~ Tier 2
+Giant Isopod ~ Tier 3
+Pelican Eel ~ Tier 2
+Bigfin Squid ~ Tier 3
+Rainbow Runner ~ Tier 2
+Pompano ~ Tier 1
+Slippery Dick ~ Tier 1
+Spotted Flathead ~ Tier 2
+
+RAIN:
+Dunkleosteus ~ Tier 3
+Mosasaurus ~ Tier 3
+Archelon ~ Tier 3
+Xiphactinus ~ Tier 2
+Sacabambaspis ~ Tier 2
+Megapiranha ~ Tier 2
+Livyatan ~ Tier 3
+Megalodon ~ Tier 3
+Ammonite ~ Tier 2
+Tully Monster ~ Tier 2
+
+ALIEN:
+Shorse ~ Tier 3
+Fish ~ Tier 1
+
+TRASH:
+Pineapple Home ~ Tier 1
+Mimic ~ Tier 1

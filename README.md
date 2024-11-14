@@ -5,9 +5,8 @@ hey you... have you ever wished that webfishing had... more fishing? well, i hav
 this is MoreFishing, by yours truly... me!!!
 this mod adds 70 new fish! 32 freshwater, 32 saltwater, 10 rain, 2 alien and 2 trash species! (fish will be listed in replies)
 
-this is v. 1.0.0, so there are bound to be issues... like:
+this is v. 2.0.0, so there are bound to be issues... like:
 may have compatibility issues with Webnautica
-(there are things subject to change... fish will be removed and added, some sprites may ((well... all of them WILL change in the future at some point)) change.)
 
 V. 2.0.0
 

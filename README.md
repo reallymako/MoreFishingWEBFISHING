@@ -10,7 +10,7 @@ may have compatibility issues with Webnautica
 
 V. 2.1.0
 
-2 new trash was added (find them using the metal detector!), some fish sprites have been reworked, and multiple fish stats were changed.
+2 new trash were added (find them using the metal detector!), some fish sprites have been reworked, and multiple fish stats were changed.
 
 -----
 a very very very special thanks to the following people!!!

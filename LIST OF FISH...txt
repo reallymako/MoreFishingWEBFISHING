@@ -87,3 +87,5 @@ Fish ~ Tier 1
 TRASH:
 Pineapple Home ~ Tier 1
 Mimic ~ Tier 1
+Buoy ~ Tier 1
+Crab Trap ~ Tier 1

@@ -8,7 +8,7 @@ this mod adds 70 new fish! 32 freshwater, 32 saltwater, 10 rain, 2 alien and 4 t
 this is v. 2.1.0, so there are bound to be issues... like:
 may have compatibility issues with Webnautica
 
-V. 2.0.0
+V. 2.1.0
 
 2 new trash was added (find them using the metal detector!), some fish sprites have been reworked, and multiple fish stats were changed.
 

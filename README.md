@@ -1,5 +1,5 @@
 # MoreFishingWEBFISHING
-MoreFishing is a new mod that adds 80 new fish to WEBFISHING--to scratch your fishing itch!
+MoreFishing is a new mod that adds 80+ new fish to WEBFISHING--to scratch your fishing itch!
 
 hey you... have you ever wished that webfishing had... more fishing? well, i have the problem solver for you!!!
 this is MoreFishing, by yours truly... me!!!

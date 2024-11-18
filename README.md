@@ -3,14 +3,14 @@ MoreFishing is a new mod that adds 80+ new fish to WEBFISHING--to scratch your f
 
 hey you... have you ever wished that webfishing had... more fishing? well, i have the problem solver for you!!!
 this is MoreFishing, by yours truly... me!!!
-this mod adds 81 new fish! 32 freshwater, 32 saltwater, 10 rain, 2 alien and 5 trash species! (fish can be found in LIST OF FISH txt file)
+this mod adds 84 new fish! 32 freshwater, 32 saltwater, 10 rain, 2 alien and 8 trash species! (fish can be found in LIST OF FISH txt file)
 
 this is v. 2.2.0, so there are bound to be issues... like:
 may have compatibility issues with Webnautica
 
-V. 2.2.0
+V. 2.3.0
 
-2 new trash were added (find them using the metal detector!), some fish sprites have been reworked, and multiple fish stats were changed.
+3 new trash were added (find them by fishing or metal detecting), Barracuda and Mosasaurus sprites were fixed.
 
 -----
 a very very very special thanks to the following people!!!

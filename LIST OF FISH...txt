@@ -90,3 +90,6 @@ Mimic ~ Tier 1
 Buoy ~ Tier 1
 Crab Trap ~ Tier 1
 Old Photo ~ Tier 1
+Anchor ~ Tier 1
+Glass Bottle ~ Tier 1
+Boat Piece ~ Tier 1

@@ -33,6 +33,12 @@ Amazon River Dolphin ~ Tier 2
 Bicuda ~ Tier 2
 Cichlid ~ Tier 1
 Wels Catfish ~ Tier 3
+Clown Knife ~ Tier 1
+Piraiba ~ Tier 3
+Loch Ness Monster ~ Tier 3
+Fur-Bearing Trout ~ Tier 3
+Busco Beast ~ Tier 3
+Alkali Monster ~ Tier 3
 
 SALTWATER:
 Saltwater Crocodile ~ Tier 3
@@ -67,6 +73,12 @@ Rainbow Runner ~ Tier 2
 Pompano ~ Tier 1
 Slippery Dick ~ Tier 1
 Spotted Flathead ~ Tier 2
+Unicorn Fish ~ Tier 1
+Narwhal ~ Tier 2
+Kraken ~ Tier 3
+Lyngbakr ~ Tier 3
+U-28 Monster ~ Tier 3
+Lusca ~ Tier 3
 
 RAIN:
 Dunkleosteus ~ Tier 3
@@ -79,6 +91,7 @@ Livyatan ~ Tier 3
 Megalodon ~ Tier 3
 Ammonite ~ Tier 2
 Tully Monster ~ Tier 2
+Basilosaurus ~ Tier 3
 
 ALIEN:
 Shorse ~ Tier 3

@@ -35,6 +35,12 @@ Cichlid ~ Tier 1
 Wels Catfish ~ Tier 3
 Clown Knife ~ Tier 1
 Piraiba ~ Tier 3
+Pink Salmon ~ Tier 1
+Arctic Grayling ~ Tier 1
+Doctor Fish ~ Tier 1
+Roach ~ Tier 1
+Butterfish ~ Tier 1
+Whitespotted Char ~ Tier 1
 Loch Ness Monster ~ Tier 3
 Fur-Bearing Trout ~ Tier 3
 Busco Beast ~ Tier 3
@@ -75,6 +81,12 @@ Slippery Dick ~ Tier 1
 Spotted Flathead ~ Tier 2
 Unicorn Fish ~ Tier 1
 Narwhal ~ Tier 2
+Leopard Seal ~ Tier 2
+Capelin ~ Tier 1
+Mackerel ~ Tier 1
+Basking Shark ~ Tier 2
+Redfish ~ Tier 1
+Yeti Crab ~ Tier 1
 Kraken ~ Tier 3
 Lyngbakr ~ Tier 3
 U-28 Monster ~ Tier 3
@@ -106,3 +118,6 @@ Old Photo ~ Tier 1
 Anchor ~ Tier 1
 Glass Bottle ~ Tier 1
 Boat Piece ~ Tier 1
+Santa Hat ~ Tier 1
+Candy Cane ~ Tier 1
+Coal ~ Tier 1
